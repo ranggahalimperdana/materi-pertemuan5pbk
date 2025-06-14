@@ -9,10 +9,7 @@ export default {
 </script>
 
 <template>
-  <h2>HomeView</h2>
-  <button @click="goToAbout">Go to About</button>
-  
-  <div class="q-pa-md q-gutter-sm">
+<div class="q-pa-md q-gutter-sm">
     <q-btn color="white" text-color="black" label="Standard" />
     <q-btn color="primary" label="Primary" />
     <q-btn color="secondary" label="Secondary" />
@@ -22,5 +19,4 @@ export default {
     <q-btn color="purple" label="Purple" />
     <q-btn color="black" label="Black" />
   </div>
-
 </template>
