@@ -1,9 +1,28 @@
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+### Materi Pertemuan 5 PBK 
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Menerapkan Materi framework Quasar & Vue Router 
+
+### 1. Masuk ke folder project
+materi-pertemuan5pbk
+
+### 2. Install dependencies
+npm install
+
+### 3. Jalankan server pengembangan
+npm run dev
+
+### Akses aplikasi di browser
+buka di browser port http://localhost:5173
+
+### Hasil 
+<img src="./src/assets/vue.png" width="800"/>
+<img src="./src/assets/vue1.png" width="800"/>
 
 
-#Sebelum install masukan perintah 
-npm install 
+
+
+
+
+
+
